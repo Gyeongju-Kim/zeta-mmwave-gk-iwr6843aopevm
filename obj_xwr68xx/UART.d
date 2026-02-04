@@ -1,0 +1,13 @@
+obj_xwr68xx/UART.oer4f: src/UART.c
+obj_xwr68xx/UART.oer4f: C:/ti/ti-cgt-arm_16.9.6.LTS/include/stdint.h
+obj_xwr68xx/UART.oer4f: C:/ti/mmwave_sdk_03_05_00_04/packages/ti/common/sys_common.h
+obj_xwr68xx/UART.oer4f: C:/ti/mmwave_sdk_03_05_00_04/packages/ti/common/sys_types.h
+obj_xwr68xx/UART.oer4f: C:/ti/ti-cgt-arm_16.9.6.LTS/include/stdbool.h
+obj_xwr68xx/UART.oer4f: C:/ti/mmwave_sdk_03_05_00_04/packages/ti/common/sys_defs.h
+obj_xwr68xx/UART.oer4f: C:/ti/mmwave_sdk_03_05_00_04/packages/ti/common/sys_common_xwr68xx.h
+obj_xwr68xx/UART.oer4f: C:/ti/mmwave_sdk_03_05_00_04/packages/ti/common/sys_common_xwr68xx_mss.h
+obj_xwr68xx/UART.oer4f: C:/ti/mmwave_sdk_03_05_00_04/packages/ti/drivers/uart/UART.h
+obj_xwr68xx/UART.oer4f: C:/ti/ti-cgt-arm_16.9.6.LTS/include/stddef.h
+obj_xwr68xx/UART.oer4f: C:/ti/mmwave_sdk_03_05_00_04/packages/ti/common/mmwave_error.h
+obj_xwr68xx/UART.oer4f: C:/ti/mmwave_sdk_03_05_00_04/packages/ti/drivers/dma/dma.h
+obj_xwr68xx/UART.oer4f: C:/ti/ti-cgt-arm_16.9.6.LTS/include/stddef.h

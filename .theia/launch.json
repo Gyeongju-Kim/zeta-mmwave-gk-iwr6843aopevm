@@ -1,0 +1,25 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "test.ccxml",
+            "type": "ccs-debug",
+            "request": "launch",
+            "targetConfig": "${targetConfigFolder}\\test.ccxml",
+            "connections": [
+                {
+                    "name": "Texas Instruments XDS110 USB Debug Probe",
+                    "cores": [
+                        {
+                            "name": "CortexR4_0",
+                            "sourceDirs": [
+                                "C:\\ti\\mmwave_sdk_03_06_00-LTS\\packages\\ti\\drivers\\uart\\test\\xwr68xx"
+                            ],
+                            "sourceMappings": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
