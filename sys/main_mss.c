@@ -371,7 +371,7 @@ static void Test_initTask(UArg arg0, UArg arg1)
     
     // CLI write
     zeta_open_cli_handle(3);
-    zeta_putcli("Hello World!! !\n");
+    //zeta_putcli("Hello World!! !\n");
     return;
 }
 
